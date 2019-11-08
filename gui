@@ -1,2 +1,4 @@
 #inlude<stdio.h>
-piumnjnn
+int main(){
+return 0;
+}
